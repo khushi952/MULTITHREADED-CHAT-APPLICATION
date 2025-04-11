@@ -55,5 +55,10 @@ Private rooms
 Emoji & media support
 
 # Output
-Server
+Server:
+
 ![Image](https://github.com/user-attachments/assets/f24d3e76-28ea-462f-900f-f51963a3775e)
+
+Clients :
+
+![Image](https://github.com/user-attachments/assets/6126ead3-5a84-42fd-8f33-1e8a3fea8b0d)
