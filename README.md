@@ -56,4 +56,4 @@ Emoji & media support
 
 # Output
 Server
-
+![Image](https://github.com/user-attachments/assets/f24d3e76-28ea-462f-900f-f51963a3775e)
