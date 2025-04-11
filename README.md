@@ -45,10 +45,6 @@ The main highlight of this project is the use of multithreading on the server si
  * Thread Safety: Each client is handled in its own thread, preventing message delays or crashes due to multiple connections.
 
 
-
-
-
-
 # 🚀 Future Improvements
 GUI-based client
 
@@ -57,3 +53,7 @@ User authentication
 Private rooms
 
 Emoji & media support
+
+# Output
+Server
+
