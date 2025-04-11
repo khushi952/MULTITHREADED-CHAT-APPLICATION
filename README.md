@@ -17,15 +17,15 @@ MENTOR: NEELA SANTOSH
 This task  is a Multithreaded Chat Application built using socket programming and threading in Java . It enables real-time communication between multiple clients and a server, allowing users to exchange messages efficiently and simultaneously.It’s a foundational networking project ideal for learning the core principles of concurrent programming, client-server architecture, and real-time communication over a network.
 
 # 🔧 Key Features
-Multithreaded Server: Efficient handling of multiple clients concurrently.
+ * Multithreaded Server: Efficient handling of multiple clients concurrently.
 
-Real-Time Messaging: Ensures instant delivery of messages to all users connected.
+ * Real-Time Messaging: Ensures instant delivery of messages to all users connected.
 
-Simple Command-Line Interface (CLI): Lightweight and fast interaction using the terminal.
+ * Simple Command-Line Interface (CLI): Lightweight and fast interaction using the terminal.
 
-Broadcast System: Every message sent by a client is broadcast to all other clients via the server.
+* Broadcast System: Every message sent by a client is broadcast to all other clients via the server.
 
-Scalable: The application structure allows easy enhancements like user authentication, private messages, or even a GUI frontend.
+ * Scalable: The application structure allows easy enhancements like user authentication, private messages, or even a GUI frontend.
 
 # 🛠️ Task Overview
 The chat system is built around a client-server model:
